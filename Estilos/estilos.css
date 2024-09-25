@@ -1,0 +1,27 @@
+.Titulo {
+    
+    text-align: center;
+    font-size: 200px;
+    
+}
+
+.boton {
+    color: slateblue;
+}
+
+.boton:active{
+    color: aquamarine;
+}
+
+p::first-letter{
+    color: rgb(255, 0, 0);
+    font-size: 35px;
+}
+
+body{
+    background-image: url(/Imagenes/pa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
