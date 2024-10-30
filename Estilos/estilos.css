@@ -19,14 +19,14 @@ p::first-letter{
 }
 
 body{
-    
-    background-image: url(/Imagenes/pa.jpg);
+    background-image: url(/Imagenes/fondo-tecnologia-digital-alambre-malla-red_1017-27428.avif);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed; 
+    margin: 0;
+    height: 100vh;
 }
-
 li{
    
     float: left;
